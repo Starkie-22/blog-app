@@ -23,10 +23,3 @@ function Protected({children, authentication = true}) {
 }
 
 export default Protected
-
-
-// if(true){
-//   if (false) {
-//     navigator("/login")
-//   }
-// }
